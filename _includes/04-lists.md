@@ -1,2 +1,2 @@
-*:heart:
-*:sparkeles:
+* :heart:
+* :sparkeles:
